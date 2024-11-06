@@ -21,7 +21,7 @@ function Projects() {
           src={projecticon}
           link="https://cguadfinance.in/"
           h3="SUDA"
-          p="Urban Administration <br> And Development - CG UAD"
+          p={<span>Urban Administration <br /> And Development - CG UAD</span>}
         />
       </div>
     </section>
