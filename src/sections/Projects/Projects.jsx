@@ -21,7 +21,7 @@ function Projects() {
           src={projecticon}
           link="https://cguadfinance.in/"
           h3="SUDA"
-          p="Hamburger Restaurant"
+          p="Urban Administration <br> And Development - CG UAD"
         />
       </div>
     </section>
